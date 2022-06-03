@@ -2,3 +2,7 @@
 
 
 Please let me know your ideas. Thanks.
+
+
+Idea 1:
+Contribute to other issues on Github.
